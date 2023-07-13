@@ -3,7 +3,6 @@ name: Coverage Diff
 on:
   push:
     branches:
-      - main
       - master
   pull_request: {}
 
